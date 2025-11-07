@@ -1,14 +1,8 @@
-# TMF697_Work_Order
-A Work Order is an arrangement to do something at a particular time and place. It may be necessary to solve a customer problem or to deliver a product order item. The Work Order API's goal is to manage a Work Order with all the necessary characteristics.
+# TMF697 Work Order
 
-The Work Order API performs the following operations on a workOrder resource:
+TM Forum Open API (Apache 2.0) Work Order API.
 
-      Retrieval of a workOrder or a collection of workOrder depending on filter criteria
+TM Forum Open API for Work Order.
 
-      Partial update of a workOrder (including updating rules)
-
-      Creation of a workOrder (including default values and creation rules)
-
-      Deletion of a workOrder (for administration purposes)
-
-      Notification of events on a workOrder
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
